@@ -1,7 +1,3 @@
-# 💫 About Me:
-IT student focused on web development and automation.<br>Building practical projects using HTML, CSS, JavaScript, and AI tools.<br>Continuously learning and improving technical skills.<br>
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varonaguerradaniel@gmail.com) 
 ![Discord](https://img.shields.io/badge/Discord-daniel12727-5865F2?logo=discord&logoColor=white)
