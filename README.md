@@ -1,4 +1,3 @@
-````md id="zx9k2m"
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f0c29,50:302b63,100:24243e&text=Daniel%20Varona&fontSize=55&fontColor=00F7FF&fontAlign=50&fontAlignY=38&desc=AI%20Builder%20•%20Vibe%20Coder%20•%20Automation%20Engineer&descAlign=50&descAlignY=58"/>
@@ -17,11 +16,10 @@
 
 </div>
 
----
+
 
 # ⚡ ABOUT ME
 
-```yaml
 name: Daniel Varona
 role: AI Builder / Full Stack Developer
 focus:
@@ -36,9 +34,9 @@ mindset:
   - Ship products
   - Automate everything
   - AI first development
-````
 
----
+
+
 
 # 🧠 AI TOOLS I USE
 
@@ -60,7 +58,7 @@ mindset:
 
 </div>
 
----
+
 
 # 💻 TECH STACK
 
@@ -70,11 +68,10 @@ mindset:
 
 </div>
 
----
 
 # 🚀 CURRENT PROJECTS
 
-```bash
+
 > SparkClean
 AI-powered cleaning company management platform
 
@@ -86,9 +83,9 @@ AI-generated social media automation platform
 
 > Automation Systems
 Tampermonkey + AI workflow automation
-```
 
----
+
+
 
 # 🌌 VIBE CODER MODE
 
@@ -98,7 +95,7 @@ Tampermonkey + AI workflow automation
 
 </div>
 
----
+
 
 # 📊 GITHUB ANALYTICS
 
@@ -122,7 +119,7 @@ Tampermonkey + AI workflow automation
 
 </div>
 
----
+
 
 # 🎮 CODING VIBES
 
@@ -132,7 +129,7 @@ Tampermonkey + AI workflow automation
 
 </div>
 
----
+
 
 # 🌐 CONNECT WITH ME
 
@@ -146,24 +143,23 @@ Tampermonkey + AI workflow automation
 
 </div>
 
----
+
 
 # ⚡ TERMINAL
 
-```bash
 > booting AI systems...
 > loading vibe coder mode...
 > automation initialized...
 > ready to build 🚀
-```
 
----
+
+
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00F7FF,50:6A00FF,100:FF00F7&section=footer"/>
 
 </div>
-```
+
 
 
